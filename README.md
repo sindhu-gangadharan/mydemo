@@ -13,4 +13,7 @@ Create lint code, unit test code and generate code coverage.
 Write Docker File for the API.
 
 ## Tools
-npm, nvm (node version manager), eslint (use airbnb lint settings), mocha (test runner), chai (assertion library), nyc (code coverage), 
+npm, nvm (node version manager), eslint (use airbnb lint settings), mocha (test runner), chai (assertion library), nyc (code coverage)
+
+## Swagger Hub Link for Product API
+https://app.swaggerhub.com/apis/sindhu-gangadharan/product/1.0.0
