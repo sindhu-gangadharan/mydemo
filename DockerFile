@@ -1,0 +1,18 @@
+FROM node:10
+
+#Create app directory
+RUN mkdir -p /product
+WORKDIR /product
+
+#Install app dependencies
+COPY package.json /product
+
+RUN npm install
+
+#Bundle app source
+
+COPY . /product
+
+EXPOSE 8080
+
+CMD [ "node", "index.js"]

@@ -1,0 +1,62 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Buzzshare",
+        "product_color": "Turquoise",
+        "product_brand": "Chatterbridge"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Lazz",
+        "product_color": "Violet",
+        "product_brand": "Feedbug"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Riffpath",
+        "product_color": "Crimson",
+        "product_brand": "Aimbu"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Blogpad",
+        "product_color": "Orange",
+        "product_brand": "Skilith"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Oyoloo",
+        "product_color": "Turquoise",
+        "product_brand": "Mydeo"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Rooxo",
+        "product_color": "Goldenrod",
+        "product_brand": "Tagcat"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Nlounge",
+        "product_color": "Fuscia",
+        "product_brand": "Dynazzy"
+    },
+    {
+        "product_id": 8,
+        "product_name": "Jabberstorm",
+        "product_color": "Indigo",
+        "product_brand": "Zooxo"
+    },
+    {
+        "product_id": 9,
+        "product_name": "Tavu",
+        "product_color": "Pink",
+        "product_brand": "Midel"
+    },
+    {
+        "product_id": 10,
+        "product_name": "Roodel",
+        "product_color": "Purple",
+        "product_brand": "Babbleopia"
+    }
+]
